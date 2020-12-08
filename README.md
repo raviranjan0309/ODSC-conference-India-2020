@@ -16,4 +16,4 @@
 --- 
 Credits :
 
-- Thank you Ritesh Kumar for contribution to the research topic [ https://in.linkedin.com/in/ritesh-kumar-246377125 ]
+- Thank you Ritesh Kumar for you contribution to the research topic [ https://in.linkedin.com/in/ritesh-kumar-246377125 ]
